@@ -1,0 +1,22 @@
+Bu dosya programın nasıl kullanılacağı hakkında bir bilgilendirme notudur.
+Adımlar program içinde yorum satırı olarak belirtilmiştir.
+
+
+Adım-1) Veri tabanını kendiniz manuel olarak oluşturmalısınız.
+Adım-2) baglati.py dosyasında veri tabanınıza göre bilgileri değiştirmelisiniz.
+Adım-3) 5.satırda verinizin adresini programa vermelisiniz.
+Adım-4) Daha sonra programda 33.satırdaki döngüde verinize göre değişiklikler yapmalısınız.
+Adım-5) 49.Satırda verilerinize göre değişikler yapmalısınız.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+This file is an informational note on how to use the program.
+The steps are specified as a comment line in the program.
+
+
+Step-1) You have to manually create the database yourself.
+Step-2) You should change the information in the link.py file according to your database.
+Step-3) In line 5, you must give the address of your data to the program.
+Step-4) Then you should make changes according to your data in the loop in the 33rd line of the program.
+Step-5) You should make changes in line 49 according to your data.
