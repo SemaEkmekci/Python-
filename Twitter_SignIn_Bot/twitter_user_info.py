@@ -1,2 +1,2 @@
-user = '@ekmkc_smnr'
-password = 'Ekmekci.1806'
+user = 'bılabılabıla'
+password = 'bılabılabıla'
