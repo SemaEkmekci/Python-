@@ -1,0 +1,16 @@
+
+
+
+		Twitter SignIn Bot Programı Hakkında
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bu program twittera bot ile giriş yapmaktadır.
+Programı kullanabilmek için bir chrome tarayıcıya sahip olmanız gerekmektedir.
+Daha sonra programda 'twitter_user_info.py' dosyasında giriş yapmak İstediğiniz hesabın bilgilerini 'user' ve 'password' bölümlerine girmelisiniz.
+
+
+
+About Twitter SignIn Bot Program
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~
+This program logs into Twitter with a bot.
+You must have a chrome browser to use the program.
+Then, in the 'twitter_user_info.py' file in the program, you must enter the information of the account you want to login to in the 'user' and 'password' sections.
